@@ -12,10 +12,6 @@ float Área1 = 10000;
 float PIB1 = 1000;
 int PontosTuristicos1 = 100;
 
-printf("Digie sua Cidade1: \n");
-scanf("%d", &Cidade1);
-
-
 /*carta2*/
 
 char Estado2 = "Bahia";
